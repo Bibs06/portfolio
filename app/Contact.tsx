@@ -21,7 +21,7 @@ const Contact = () => {
           );
       };
   return (
-    <div className='h-screen flex flex-col gap-2 py-10 bg-secondary'>   <h5 className='text-4xl text-center text-golden-yellow font-bold'>Contact Me</h5>
+    <div id='contact' className='h-screen flex flex-col gap-2 py-10 bg-secondary'>   <h5 className='text-4xl text-center text-golden-yellow font-bold'>Contact Me</h5>
     <h3 className="text-2xl font-semibold mt-2 text-center">Ways To Contact Me</h3>
     <p className="text-17 w-80 text-center mx-auto">Feel free to reach out and drop me a message in the binary world of zeros and ones. Let's connect through the language of computers</p>
      

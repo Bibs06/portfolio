@@ -21,7 +21,7 @@ const Projects = () => {
 
 
   return (
-    <div className='bg-primary h-screen p-8'>
+    <div id='projects' className='bg-primary h-screen p-8'>
       <div className='text-center mx-auto p-0 flex flex-col gap-2'>
 
 

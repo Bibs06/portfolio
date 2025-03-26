@@ -18,7 +18,7 @@ const Skills = () => {
 
     
   return (
-    <div className='h-screen bg-secondary'>
+    <div id='skills' className='h-screen bg-secondary'>
          <div className="text-center flex flex-col mx-auto p-8">
       <h1 className="text-4xl text-golden-yellow font-bold">SKILLS</h1>
       <h2 className="text-2xl font-semibold mt-2">What I Am Great At</h2>
