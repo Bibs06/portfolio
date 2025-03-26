@@ -30,11 +30,9 @@ export default function RootLayout({
 
       >
         <Navbar />
-        <main className="relative-overflow-hidden">
+        <main >
           {children}
         </main>
-
-        <Footer />
       </body>
     </html>
   );

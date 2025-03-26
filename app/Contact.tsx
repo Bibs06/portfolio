@@ -31,7 +31,7 @@ const Contact = () => {
       <div className="border-golden-yellow border-1  mb-4 px-1 rounded-md w-100 py-2 text-white ">
         <input
           id="form4Example2"
-          className="outline-0"
+          className="outline-0 w-full"
           placeholder="Name"
           name="your_name"
           required
@@ -41,7 +41,7 @@ const Contact = () => {
         <input
           type="email"
           id="form4Example2"
-          className="outline-0"
+          className="outline-0 w-full"
           placeholder="Email"
           name="your_email"
           required
@@ -50,7 +50,7 @@ const Contact = () => {
 
       <div className="border-golden-yellow border-1  mb-4 px-1 rounded-md w-100 py-2 text-white ">
         <textarea
-          className="outline-0"
+          className="outline-0 w-full"
           id="form4Example3"
           rows={4}
           placeholder="Message"
