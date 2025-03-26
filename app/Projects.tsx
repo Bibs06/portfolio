@@ -12,9 +12,9 @@ const Projects = () => {
 
 
   const projects = [
-    { projectName: 'Palkkaran', link: 'https://play.google.com/store/apps/details?id=com.tecnavis.palkkaran', desc: 'Palkkaran App lets users buy products once or through a subscription and get updates on deliveries, invoices, and changes. They can track monthly charges, pause subscriptions, and see pending deliveries on a calendar. Payments are made directly to delivery boys for convenience.', img: './assets/palkkaran.png' },
-    { projectName: 'Flocklink', link: 'https://play.google.com/store/apps/details?id=com.byteriver.flocklinkapp', desc: 'Introducing Flocklink, the app created to bring church communities closer together in today’s fast-paced world. Whether you’re at home or on the go, Flocklink keeps you connected, engaged, and up-to-date with everything happening within your church community.', img: './assets/flocklink.webp' },
-    { projectName: 'Traez', link: 'https://play.google.com/store/apps/details?id=com.traez.app', desc: 'Avanza makes logistics easy with real-time tracking, consignment history, and driver monitoring. Manage transportation and manpower effortlessly with smart tools designed for the modern logistics industry.', img: './assets/traez.webp' },
+    { projectName: 'Palkkaran', link: 'https://play.google.com/store/apps/details?id=com.tecnavis.palkkaran', desc: 'Palkkaran App lets users buy products once or through a subscription and get updates on deliveries, invoices, and changes. They can track monthly charges, pause subscriptions, and see pending deliveries on a calendar. Payments are made directly to delivery boys for convenience.', img: '/assets/palkkaran.png' },
+    { projectName: 'Flocklink', link: 'https://play.google.com/store/apps/details?id=com.byteriver.flocklinkapp', desc: 'Introducing Flocklink, the app created to bring church communities closer together in today’s fast-paced world. Whether you’re at home or on the go, Flocklink keeps you connected, engaged, and up-to-date with everything happening within your church community.', img: '/assets/flocklink.webp' },
+    { projectName: 'Traez', link: 'https://play.google.com/store/apps/details?id=com.traez.app', desc: 'Avanza makes logistics easy with real-time tracking, consignment history, and driver monitoring. Manage transportation and manpower effortlessly with smart tools designed for the modern logistics industry.', img: '/assets/traez.webp' },
 
 
   ];

@@ -5,13 +5,13 @@ const Skills = () => {
 
     const skills = [
 
-        {skill:"Flutter", icon:"./assets/flutter.png"},
-        {skill:"Django", icon:"./assets/django.png"},
-        {skill:"Tailwind", icon:"./assets/tailwind.png"},
-        {skill:"NextJs", icon:"./assets/next.png"},
-        {skill:"Firebase", icon:"./assets/firebase.png"},
-        {skill:"Postgress", icon:"./assets/postgress.png"},
-        {skill:"MongoDb", icon:"./assets/mongodb.png"},
+        {skill:"Flutter", icon:"/assets/flutter.png"},
+        {skill:"Django", icon:"/assets/django.png"},
+        {skill:"Tailwind", icon:"/assets/tailwind.png"},
+        {skill:"NextJs", icon:"/assets/next.png"},
+        {skill:"Firebase", icon:"/assets/firebase.png"},
+        {skill:"Postgress", icon:"/assets/postgress.png"},
+        {skill:"MongoDb", icon:"/assets/mongodb.png"},
      
 
     ];

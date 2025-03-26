@@ -56,7 +56,7 @@ export const Home = () => {
 
 
             <div className='absolute bottom-0 mx-auto'>
-                <Image alt="bibs" src={"./assets/bibs.png"} width={500} height={500} />
+                <Image alt="bibs" src={"/assets/bibs.png"} width={500} height={500} />
             </div>
 
             <div className='flex flex-col pr-5 py-4 lg:px-10  z-0 gap-2 absolute bottom-0 lg:right-0 lg:top-25  lg:w-md '>
