@@ -46,7 +46,7 @@ export const Home = () => {
                 </div>
                 <a
 
-                    href={'./assets/resume.pdf'}
+                    href={'./assets/Bibin Jose Resume.pdf'}
                     download="resume.pdf"
                     className='border-golden-yellow border-1 rounded-md text-center py-1 font-bold'
                 >
